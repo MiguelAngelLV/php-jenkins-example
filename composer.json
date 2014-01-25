@@ -1,0 +1,13 @@
+{
+    "require": {
+        "theseer/fxsl": "1.0.*@dev",
+        "phpunit/phpunit": "3.7.*",
+        "theseer/phpdox": "0.5.*@dev",
+        "squizlabs/php_codesniffer": "1.4.6",
+        "phpmd/phpmd": "1.5.0",
+        "phploc/phploc": "2.0.2",
+        "sebastian/phpcpd": "1.4.3",
+        "phpdocumentor/phpdocumentor": "v2.0.1",
+        "theseer/phpdox": "0.6.3"
+    }
+}
